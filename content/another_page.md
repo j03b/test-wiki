@@ -2,6 +2,6 @@
 title: Another page
 ---
 
-```py
+```python
 print("Code blocks!")
 ```
